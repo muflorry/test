@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Gayathri&display=swap');
+
+h2{
+    font-family: 'Gayathri', sans-serif;
+}
+body{
+
+    background-color:rgb(228, 222, 214) ;
+}
+h1{
+    text-align: center;
+    text-shadow:4px 4px 2px rgba(150, 150, 150, 1) ;
+}
+h3{
+    color:rgb(40, 38, 46) ;
+}
+p u{
+    text-decoration: underline;
+}
+p i{
+    font-style: italic;
+}
+p b{
+    font-weight: bold;
+}
+p u b i{
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
